@@ -1,0 +1,8 @@
+1.Allow users to add their clothes' photos into their digital wardrobe and the description of this outfit.
+2.Seperate these outfits by what kind of outfit it is. T-shirts,shirts,hoodies,jackets,sweaters,winter jacket, functional outfit.
+3.Keep tracking of user's outfits everyday and keep recording them.
+4.Notificate the user every morning at 10 a.m. to record their outfit.
+5.If the outfit is dirty , put the cloth into the digital trash bin and it won't show in your wardrobe.
+6.Have a wish list for the outfit that you want to buy and remind the user every day to ask a question " Do you think you really need 
+this cloth" and keep asking for 7 days.If the users still want to buy t.
+7.Give the user suggestions of daily outfit.
